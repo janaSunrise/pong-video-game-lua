@@ -12,6 +12,11 @@ Once done, execute the following steps:
 - Run it using `love .` command.
 And boom! It should work :)
 
+### Note
+
+Credits given to Colton Odgen at harvard university, inside the files. The comments are added, as per his code in the class,
+for credits, and also better understanding, and notes.
+
 <div align="center">
   Made by Sunrit Jana with <3
 </div>
